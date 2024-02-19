@@ -1,0 +1,70 @@
+[{
+  "resource": "/my-endpoint",
+  "path": "/my-endpoint",
+  "httpMethod": "POST",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "queryStringParameters": null,
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "resourceId": "123456",
+    "apiId": "abcdef1234",
+    "resourcePath": "/my-endpoint",
+    "httpMethod": "POST",
+    "requestId": "c6af9ac6-7b61-11e6-9a41-93e8deadbeef",
+    "accountId": "123456789012",
+    "identity": {
+      "apiKey": null,
+      "userArn": null,
+      "cognitoAuthenticationType": null,
+      "caller": null,
+      "userAgent": "Custom User Agent String",
+      "user": null,
+      "cognitoIdentityPoolId": null,
+      "cognitoIdentityId": null,
+      "cognitoAuthenticationProvider": null,
+      "sourceIp": "127.0.0.1",
+      "accountId": null
+    },
+    "stage": "prod"
+  },
+  "body": "[{\"sku\": \"316-10SM450-10005P 1730\", \"brand\": \"Sandvik\", \"replacement_sku\": \"\", \"operational_mode\": 8}, {\"sku\": \"393.CG-120640\", \"brand\": \"Sandvik\", \"replacement_sku\": \"\", \"operational_mode\": 8}, {\"sku\": \"1LAD0400\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"1LAD0400\", \"operational_mode\": 8}, {\"sku\": \"1LAD0500\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"1LAD0500\", \"operational_mode\": 8}, {\"sku\": \"1LAD0600\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"1LAD0600\", \"operational_mode\": 8}, {\"sku\": \"1LAD0800\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"1LAD0800\", \"operational_mode\": 8}, {\"sku\": \"1LAD1000\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"1LAD1000\", \"operational_mode\": 8}, {\"sku\": \"1MAD0300\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"1MAD0300\", \"operational_mode\": 8}, {\"sku\": \"1MAD0400\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"1MAD0400\", \"operational_mode\": 8}, {\"sku\": \"1MAD0500\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"1MAD0500\", \"operational_mode\": 8}]",
+  "isBase64Encoded": false
+},
+{
+  "resource": "/my-endpoint",
+  "path": "/my-endpoint",
+  "httpMethod": "POST",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "queryStringParameters": null,
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "resourceId": "123456",
+    "apiId": "abcdef1234",
+    "resourcePath": "/my-endpoint",
+    "httpMethod": "POST",
+    "requestId": "c6af9ac6-7b61-11e6-9a41-93e8deadbeef",
+    "accountId": "123456789012",
+    "identity": {
+      "apiKey": null,
+      "userArn": null,
+      "cognitoAuthenticationType": null,
+      "caller": null,
+      "userAgent": "Custom User Agent String",
+      "user": null,
+      "cognitoIdentityPoolId": null,
+      "cognitoIdentityId": null,
+      "cognitoAuthenticationProvider": null,
+      "sourceIp": "127.0.0.1",
+      "accountId": null
+    },
+    "stage": "prod"
+  },
+  "body": "[{\"sku\": \"2LSD0150\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0150\", \"operational_mode\": 8}, {\"sku\": \"2LSD0200\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0200\", \"operational_mode\": 8}, {\"sku\": \"2LSD0250\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0250\", \"operational_mode\": 8}, {\"sku\": \"2LSD0300\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0300\", \"operational_mode\": 8}, {\"sku\": \"2LSD0350\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0350\", \"operational_mode\": 8}, {\"sku\": \"2LSD0400\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0400\", \"operational_mode\": 8}, {\"sku\": \"2LSD0450\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0450\", \"operational_mode\": 8}, {\"sku\": \"2LSD0500\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0500\", \"operational_mode\": 8}, {\"sku\": \"2LSD0550\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0550\", \"operational_mode\": 8}, {\"sku\": \"2LSD0600\", \"brand\": \"Mitsubishi\", \"replacement_sku\": \"2LSD0600\", \"operational_mode\": 8}]",
+  "isBase64Encoded": false
+}]
